@@ -2,7 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/ucc5fxecv50z4_dl2_gesf4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc5fxecv50z4_dl2_gesf4q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCC5Fxecv50z4_DL2_gESF4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc5fxecv50z4_dl2_gesf4q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
