@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Salih</h1>
-AES-256-CBC:cb8213cb942b3dc15848adb39c9adf5d476048b4737f770fb19e58a08d3da883
-Secret:hki7HwZyklqAvd52AP9S1VZ64ktrLS5y
-IV:hki7HwZyklqAvd52
+AES-256-CBC:cb8213cb942b3dc15848adb39c9adf5d476048b4737f770fb19e58a08d3da883<br/>
+Secret:hki7HwZyklqAvd52AP9S1VZ64ktrLS5y<br/>
+IV:hki7HwZyklqAvd52<br/>
 <h3 align="center">A passionate senior web developer from Türkiye</h3>
 
 - 🔭 I’m currently working on [Yanıbaşımda Karatay](http://yanibasimdakaratay.com/)
