@@ -10,6 +10,10 @@
 
 <br/>
 
+https://msydeveloper.com
+
+<br/>
+
 Full stack web uygulamaları geliştiriyorum. Frontend'den backend'e, veritabanı tasarımından DevOps süreçlerine kadar yazılımın tüm katmanlarında çalışıyorum. Temiz, sürdürülebilir ve ölçeklenebilir kod yazmayı öncelik olarak görüyorum.
 
 </div>
