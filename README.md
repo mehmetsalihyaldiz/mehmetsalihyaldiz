@@ -1,66 +1,97 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-dark.svg" alt="Mehmet Salih Yaldız, Full Stack Developer" width="100%" />
+</picture>
 
-# Mehmet Salih Yaldız
-
-**Full Stack Developer**
-
-[![Location](https://img.shields.io/badge/📍-Konya,_Türkiye-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF)](https://github.com/mehmetsalihyaldiz)
-[![Status](https://img.shields.io/badge/💼-Freelance_Açık-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950)](https://github.com/mehmetsalihyaldiz)
-[![Focus](https://img.shields.io/badge/🎯-Microservices_&_Cloud-0d1117?style=for-the-badge&labelColor=0d1117&color=8b949e)](https://github.com/mehmetsalihyaldiz)
-
-<br/>
-
-https://msydeveloper.com
+<p align="center">
+  <a href="https://msydeveloper.com"><b>msydeveloper.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mehmetsalihyaldiz"><b>LinkedIn</b></a>
+</p>
 
 <br/>
 
-Full stack web uygulamaları geliştiriyorum. Frontend'den backend'e, veritabanı tasarımından DevOps süreçlerine kadar yazılımın tüm katmanlarında çalışıyorum. Temiz, sürdürülebilir ve ölçeklenebilir kod yazmayı öncelik olarak görüyorum.
+Merhaba, ben **Salih**. İşitme engelli bir yazılımcıyım. İşletmelerin günlük işini kolaylaştıran yazılımlar geliştiriyorum: veritabanı tasarımından arayüze, sunucudan yayına kadar her katmanda çalışıyorum.
 
-</div>
+| | |
+| --- | --- |
+| **İşletme sistemleri** | Stok, fatura, rapor, broşür ve takip panelleri |
+| **Otomasyon** | Playwright ve Python ile tarayıcı otomasyonu, veri toplama araçları |
+| **3D ve etkileşim** | Three.js ile ürün vitrinleri ve kaydırmaya bağlı animasyonlu siteler |
+| **Erişilebilirlik** | İşitme engelli topluluklar ve dernekler için web projeleri |
 
----
+## Öne çıkan projeler
+
+Çoğu müşteri projesi olduğu için kodları gizli. Demo ya da detay için <a href="https://msydeveloper.com">msydeveloper.com</a> üzerinden yazabilirsin.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Marketing System</h3>
+      Mağazalar için broşür yönetim sistemi. Admin panelinden hazırlanan broşürler sunucu tarafında PNG, JPG ve PDF olarak üretiliyor.
+      <br/><br/>
+      <code>TypeScript</code> <code>SSR</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>GitHub Panel</h3>
+      Repoları gezmek ve günlük çalışma disiplinini otomatik takip etmek için kişisel panel.
+      <br/><br/>
+      <code>Bun</code> <code>Hono</code> <code>React</code> <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Yedek Parça Stok Yönetimi</h3>
+      Bir yedek parça firması için stok, giriş-çıkış ve Excel aktarımı yapan yönetim sistemi.
+      <br/><br/>
+      <code>Laravel</code> <code>MySQL</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ozan Döviz</h3>
+      iOS ve Android için piyasa takibi ve kur çevirici içeren döviz uygulaması.
+      <br/><br/>
+      <code>React Native</code> <code>TypeScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Earth</h3>
+      Kaydırdıkça dönen 4K60 Dünya sitesi. NASA SVS görüntüleriyle hazırlandı.
+      <br/><br/>
+      <code>Bun</code> <code>React</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sports 3D</h3>
+      32 spor dalı, her biri için prosedürel olarak üretilen 3D ekipman ve kart açılma efekti.
+      <br/><br/>
+      <code>Three.js</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
 ## Teknolojiler
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,react,vue,nodejs,bun&perline=8" alt="TypeScript, JavaScript, PHP, Python, React, Vue, Node.js, Bun" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=laravel,threejs,postgres,mysql,sqlite,docker,linux,git&perline=8" alt="Laravel, Three.js, PostgreSQL, MySQL, SQLite, Docker, Linux, Git" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+Bunlara ek olarak: React Native, Hono, Playwright, FFmpeg.
 
-**Backend**
+## Şu an öğrendiklerim
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+Microservices mimarisi, Kubernetes ve cloud native uygulama geliştirme.
 
-**Veritabanı & DevOps**
+## Aktivite
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## GitHub İstatistikleri
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mehmetsalihyaldiz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsalihyaldiz&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+<p>
+  <img src="https://streak-stats.demolab.com?user=mehmetsalihyaldiz&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+</p>
 
 ---
 
-## Şu an üzerinde çalıştıklarım
-
-- Microservices mimarisi ve servis iletişim desenleri
-- Kubernetes ile container orchestration
-- Cloud native uygulama geliştirme
-
----
-
-## İletişim
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetsalihyaldiz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mehmetsalihyaldiz)
+<p align="center">
+  Bir projen mi var? <a href="https://msydeveloper.com"><b>msydeveloper.com</b></a> üzerinden ulaşabilirsin.
+</p>
